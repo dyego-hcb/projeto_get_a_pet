@@ -1,0 +1,74 @@
+# Arquivos do VSCode
+.vscode/
+
+# Arquivos do sistema macOS
+.DS_Store
+.AppleDouble
+.LSSharedFileList.plist
+.Trashes
+
+# Dependências
+node_modules/
+
+# Arquivos de configuração
+config.js
+
+# Arquivos de registro
+logs/
+*.log
+
+# Ambiente de desenvolvimento
+.env
+
+# Arquivo de bloqueio do sistema
+package-lock.json
+
+# Arquivo de histórico de versões npm
+npm-debug.log
+
+# Pasta de cobertura gerada por ferramentas de teste
+coverage/
+
+# Arquivos de compilação
+build/
+dist/
+
+# Arquivos de configuração de IDE
+.idea/
+
+# Outros arquivos e pastas comuns para ignorar
+*.pid
+*.seed
+*.lcov
+.nyc_output
+.npm
+.eslintcache
+.stylelintcache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.node_repl_history
+*.tgz
+.yarn-integrity
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+.cache
+.parcel-cache
+.next
+out
+.nuxt
+dist
+.vuepress/dist
+.temp
+.docusaurus
+.serverless
+.fusebox
+
+# Img project
+backend/public/images/pets/*.png
+backend/public/images/pets/*.jpg
+backend/public/images/users/*.png
+backend/public/images/users/*.jpg
