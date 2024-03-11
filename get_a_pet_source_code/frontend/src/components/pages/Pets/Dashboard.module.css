@@ -78,7 +78,15 @@
     border-color: #25B456;
 }
 
-.actions .conclude_btn:hover{
+.actions .conclude_btn button:hover{
     color: #FFF;
     border-color: #25B456;
+}
+
+.contacts {
+    margin-left: 2em;
+}
+
+.contacts p {
+    margin-bottom: 0.5em;
 }

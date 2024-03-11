@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { useParams, userParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 
 import api from "../../../utils/api";
 
